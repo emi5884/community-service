@@ -183,8 +183,9 @@ GNH：コミュニティヘルスの認知と向上のためのアンケート�
 寄付金以外に以下の3つのインプットを想定しています。<br>
 1はアプリの運営費に活用され、寄付から生まれる2&3の資金はコミュニティに還元される想定です。<br><br>
 
-1） 広告費<br>
+1） 広告収益<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q9で言及します。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※余剰利益は、コミュニティに還元される想定です。<br>
 
 2） シェア画面の販売売上<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q4で言及します。<br>
