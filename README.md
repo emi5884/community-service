@@ -47,7 +47,7 @@
 ---------------
 
 ### シェア画面：ドネート画面で登録された情報一覧画面<br>
-※参考：クラシファイドサイト(craigslist ※5)、シェアリングエコノミー<br><br>
+※参考：クラシファイドサイト(craigslist ※5)、シェアリングエコノミー(※6)<br><br>
 ![share_2](https://github.com/emi5884/community-service/assets/98724087/30574e5b-d547-40af-b091-5090397f560b)
 
 #### カテゴリイメージ <br>
@@ -105,7 +105,7 @@
 #### 再分配対象のプロジェクトイメージ<br>
 ![support_4](https://github.com/emi5884/community-service/assets/98724087/7130ed29-296e-482a-9542-1e747f001ae5)
 ※Eaas(Experimentation as a service)...市民が感じている課題に対するソリューションを市民自身で導き出すことを支援するEUのプロジェクト(※6) 導入効果を明らかにすることで行政施策として採用される可能性がある。<br>
-(イメージ画像の花火大会は日本の花火大会の例ですがEaasのような成り立ちだったので参考にしました。※7)<br><br>
+(イメージ画像の花火大会は日本の花火大会の例ですがEaasのような成り立ちだったので参考にしました。)<br><br>
 
 #### プロジェクト画面<br>
 ![project](https://github.com/emi5884/community-service/assets/98724087/0c3397d1-f348-4161-818c-7d44c8f533c6)
@@ -255,10 +255,14 @@ GNH：コミュニティヘルスの認知と向上のためのアンケート�
 ### Q9 アプリの運営費は寄付金か?<br><br>
 
 寄付金は全て再分配に活用され、アプリの運営費は広告収益を活用する想定です。<br>
-広告は、インスタグラム広告のようにアプリから収集されるデータをもとにパーソナライズされた広告(求人等)を想定しています。<br><br>
-※ イメージ<br>
-アプリ内データを反映したプロフィールを元におすすめの求人広告を紹介等<br>
+広告は、インスタグラム広告のようにアプリから収集されるデータをもとにパーソナライズされた広告や検索ワードにヒットした広告を想定しています。<br><br>
 
+※検索ワードにヒットした広告イメージ<br>
+3つのP(planet, people, profit ※14)に配慮したプロダクトや地域のスモールビジネスの広告等
+![Ad](https://github.com/emi5884/community-service/assets/98724087/204638e4-b43b-463f-8891-41d2f6de8705)<br><br>
+
+※パーソナライズ広告イメージ<br>
+アプリ内データを反映したプロフィールを元におすすめの求人広告を紹介等<br>
 ![profile](https://github.com/emi5884/community-service/assets/98724087/ad8c0f67-90ac-420f-b63a-62fb352ddbf7)
 
 ----------
@@ -266,7 +270,7 @@ GNH：コミュニティヘルスの認知と向上のためのアンケート�
 ### Q10 寄付が少ないと言われる日本で寄付が集まるのか？<br><br>
 
 善意銀行でアルバイトをしていたときに企業の方が「寄付したいものはあるけど、どこに寄付をすればいいのか分からなかった」とおっしゃていたことが印象に残っています。<br>
-アプリがウィスラーコミュニティ基金(※14)のように寄付を一元的に受け付ける寄付の総合窓口のような存在になることで寄付が集まりやすくなることを期待しています。<br>
+アプリがウィスラーコミュニティ基金(※15)のように寄付を一元的に受け付ける寄付の総合窓口のような存在になることで寄付が集まりやすくなることを期待しています。<br>
 
 ----------
 
@@ -316,7 +320,7 @@ GNH：コミュニティヘルスの認知と向上のためのアンケート�
 ### Q15 アプリの集客方法は？<br><br>
 
 口コミです。<br>
-chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本当にいいプロダクトなら、みんなそのプロダクトを話題にする。googleやfacebookは友達から聞いて知ったんじゃない？」という言葉を参考にしています。(※15)<br>
+chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本当にいいプロダクトなら、みんなそのプロダクトを話題にする。googleやfacebookは友達から聞いて知ったんじゃない？」という言葉を参考にしています。(※16)<br>
 このアプリのメインの機能である「share」は、機会版のgoogleを目指しています。<br>
 世の中の「機会」を集約＆可視化し、「便利だから」という理由で多くの方にアプリを使っていただくことで、団体へのサポート(寄付金の再分配)が促進されることを期待しています。<br><br>
 
@@ -356,9 +360,8 @@ chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.tcsw.tvac.or.jp/zengin/overview/index.html (参照2023-8-16)<br>
 (※5) craigslist whistlerホームページ<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistler.craigslist.org/ (参照2023-8-16)<br>
-(※6) 中島健祐(2019) デンマークのスマートシティ 学芸出版社 p194-195<br>
-(※7) QUALITIESホームページ 冬の花火大会企画開催メンバーインタビュー記事<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://qualities.jp/article/tsuruta (参照2023-8-16)<br>
+(※6) レイチェルボッツマン, ルー・ロジャース, 関美和(訳)(2016) 共有からビジネスを生み出す新戦略 NHK出版 p122-128<br>
+(※7) 中島健祐(2019) デンマークのスマートシティ 学芸出版社 p194-195<br>
 (※8) ウィスラーコミュニティサービスソサイエティホームページ「Outreach Services」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://mywcss.org/contact-outreach/ (参照2023-8-16)<br>
 (※9) 公益財団法人 日本交通公社ホームページ「環境と共生するリゾート～カナダ・ウィスラーを訪れて [コラムvol.210]」 <br>
@@ -371,10 +374,11 @@ chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  http://www.undp.or.jp/hdr/ (参照2023-8-16)<br>
 (※12) 共同売店ファンクラブホームページ<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://kyodobaiten.org/whatis/ (参照2023-8-16)<br>
-(※13) ウィスラーコミュニティサービスホームページ 「About WCSS」<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://mywcss.org/about-wcss/ (参照2023-8-16)<br>
-(※14) ウィスラーコミュニティファンデーションホームページ 「About us」<br>
+(※13) ウィスラーコミュニティサービスホームページ 「Re-Use-It Centre」<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://mywcss.org/social-enterprises/re-use-it-centre/ (参照2023-8-16)<br>
+(※14) 安居昭博(2021) サーキュラーエコノミー実践 学芸出版社 p30-34<br>
+(※15) ウィスラーコミュニティファンデーションホームページ 「About us」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistlerfoundation.com/about-us/ (参照2023-8-16)<br>
-(※15) YouTube 「Sam Altman - How to Succeed with a Startup」 <br>
+(※16) YouTube 「Sam Altman - How to Succeed with a Startup」 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.youtube.com/watch?v=0lJKucu6HJc&t=46s (参照2023-10-18)<br><br>
 
