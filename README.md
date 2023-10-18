@@ -313,7 +313,18 @@ GNH：コミュニティヘルスの認知と向上のためのアンケート�
 
 ----------
 
-### Q15 アプリの想定ユーザーは?　<br><br>
+### Q15 アプリの集客方法は？<br><br>
+
+口コミです。<br>
+chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本当にいいプロダクトなら、みんなそのプロダクトを話題にする。googleやfacebookは友達から聞いて知ったんじゃない？」という言葉を参考にしています。(※15)<br>
+このアプリのメインの機能である「share」は、機会版のgoogleを目指しています。<br>
+世の中の「機会」を集約＆可視化し、「便利だから」という理由で多くの方にアプリを使っていただくことで、団体へのサポート(寄付金の再分配)が促進されることを期待しています。<br><br>
+
+![kutikomi](https://github.com/emi5884/community-service/assets/98724087/5a19118f-9178-4ae1-8303-bd5b368f3bae)
+
+----------
+
+### Q16 アプリの想定ユーザーは?　<br><br>
 
 全国民です。<br>
 「共助」を体現しているウィスラーで生活をして、共助の存在を初めて実感しました。<br>
@@ -363,4 +374,7 @@ GNH：コミュニティヘルスの認知と向上のためのアンケート�
 (※13) ウィスラーコミュニティサービスホームページ 「About WCSS」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://mywcss.org/about-wcss/ (参照2023-8-16)<br>
 (※14) ウィスラーコミュニティファンデーションホームページ 「About us」<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistlerfoundation.com/about-us/ (参照2023-8-16)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistlerfoundation.com/about-us/ (参照2023-8-16)<br>
+(※15) YouTube 「Sam Altman - How to Succeed with a Startup」 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.youtube.com/watch?v=0lJKucu6HJc&t=46s (参照2023-10-18)<br><br>
+
