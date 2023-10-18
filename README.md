@@ -320,7 +320,7 @@ chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本�
 このアプリのメインの機能である「share」は、機会版のgoogleを目指しています。<br>
 世の中の「機会」を集約＆可視化し、「便利だから」という理由で多くの方にアプリを使っていただくことで、団体へのサポート(寄付金の再分配)が促進されることを期待しています。<br><br>
 
-![kutikomi](https://github.com/emi5884/community-service/assets/98724087/5a19118f-9178-4ae1-8303-bd5b368f3bae)
+![kutikomi2](https://github.com/emi5884/community-service/assets/98724087/9a842f87-67da-47c0-90d3-5855e86bec80)
 
 ----------
 
