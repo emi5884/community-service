@@ -95,10 +95,10 @@
 ![fund_all](https://github.com/emi5884/community-service/assets/98724087/bf5c787d-a38c-4cad-99de-4c7f23c9839c)
 
 #### 再分配方法：カテゴリ一覧画面orプロジェクト画面の「サポートする」ボタンをクリック<br>
-(SNSで応援したい団体や人を見つけた時に「いいね」ボタンを押すことがあると思います。<br>
-「サポートする」ボタンは、「いいね」ボタンのように応援していることを団体に伝えると同時にお金が提供されるイメージです。)<br><br>
-
 ![support_1](https://github.com/emi5884/community-service/assets/98724087/38e4445e-44da-420b-8032-b2e9de870a55)<br>
+
+SNSで応援したい団体や人を見つけた時に「いいね」ボタンを押すことがあると思いますが、
+「サポートする」ボタンは、「いいね」ボタンのように応援していることを団体に伝えると同時にお金が提供されるイメージです。<br><br>
 ![support_gif_1](https://github.com/emi5884/community-service/assets/98724087/a47a7480-1150-46e5-a88c-2aa164c9a334)
 ![support_gif_2](https://github.com/emi5884/community-service/assets/98724087/bb195522-618c-4bbe-b7cf-78297b9dfa27)
 
