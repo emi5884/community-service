@@ -146,7 +146,8 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 課題解決のために活動する団体の活動費を支援することで活動内容が充実し、<br>
 活動者だけでなく支援者にとっても実現したい町に近づくイメージです。<br>
 (下の例の場合は、団体を支援することで遊び場が増えたり、保護される動物が増えることが期待されます。) <br><br>
-![distribute](https://github.com/emi5884/community-service/assets/98724087/8fe5a8e8-2175-44e6-a519-c114fbe70f4c)<br><br>
+![distribute](https://github.com/emi5884/community-service/assets/98724087/cc77720b-fc34-4ba2-ac25-b0f56dbe4b15)<br><br>
+
 #### ※ 再分配の内訳公開<br>
 「サポートする」ボタンがクリックされた数に応じて分配比率が変動<br><br>
 
