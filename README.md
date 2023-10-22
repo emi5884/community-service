@@ -116,7 +116,8 @@
 ### コミュニティ画面：市民にサポート団体の情報を提供する画面<br>
 ![community_all](https://github.com/emi5884/community-service/assets/98724087/51ec32c3-8bd0-4cb6-bef1-34ef4af3f658)
 
-情報提供方法①：相談窓口(チャットボット)での情報提供<br><br>
+情報提供方法①：相談窓口(チャットボット)での情報提供<br>
+※悩み事や願い事を相談<br><br>
 ![ai_2](https://github.com/emi5884/community-service/assets/98724087/7b25a7c9-07b8-4f5f-8be5-b8ddced44b7b)<br>
 
 情報提供方法②：GNHのアンケート結果のフォロー (Noと回答した場合は、相談画面を表示等) <br>
