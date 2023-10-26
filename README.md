@@ -343,7 +343,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 企業の寄付品とユーザーを繋ぐ、(スリフトショップやフードバンクのような)オフラインのプラットフォームもあります。<br>
 
 ※参考：ウィスラーコミュニティサービス(※13)<br>
-![thriftshop](https://github.com/emi5884/community-service/assets/98724087/f37c5853-e9e8-4f0b-b2ab-bfcf4f8a1bd2)
+![thriftshop_2](https://github.com/emi5884/community-service/assets/98724087/ae11ec77-679a-4d91-a17c-e53afbffe465)
 
 ----------
 
