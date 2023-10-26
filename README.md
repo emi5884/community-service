@@ -110,8 +110,7 @@
 (イメージ画像の花火大会は日本の花火大会の例ですがEaasのような成り立ちだったので参考にしました。)<br><br>
 
 #### プロジェクト画面<br>
-![project](https://github.com/emi5884/community-service/assets/98724087/0c3397d1-f348-4161-818c-7d44c8f533c6)
-
+![project_2](https://github.com/emi5884/community-service/assets/98724087/36d78cf9-1a3c-4c37-b108-350e20acf850)
 ---------------
 
 ### コミュニティ画面：市民にサポート団体の情報を提供する画面<br>
@@ -252,7 +251,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 円滑で建設的なディスカッションをサポートしたいと考えています。<br><br>
 
 例：温泉街活性化に取り組む市民団体のディスカッション
-![report_discussion](https://github.com/emi5884/community-service/assets/98724087/7e56983e-7d32-4cdc-b925-031af34824f3)
+![report_discussion_2](https://github.com/emi5884/community-service/assets/98724087/99a1bf00-1881-496b-ab6b-9566df89172d)
 
 #### 認知度アップによる仲間集め<br>
 活動レポートを更新すると市民に周知されます。<br>
@@ -286,7 +285,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※参考：沖縄の共同売店 (コミュニティで運営し、利益をコミュニティのために活用 ※13)<br>
 
 ※ イメージ<br>
-![startup](https://github.com/emi5884/community-service/assets/98724087/b78a606c-bc13-4736-a38e-d08e22ce314e)<br><br>
+![return_2](https://github.com/emi5884/community-service/assets/98724087/09ddbf3c-f151-43c9-8775-1b23239d009e)<br><br>
 
 ----------
 
