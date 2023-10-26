@@ -253,7 +253,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 円滑で建設的なディスカッションをサポートしたいと考えています。<br><br>
 
 例：温泉街活性化に取り組む市民団体のディスカッション
-![report_discussion_2](https://github.com/emi5884/community-service/assets/98724087/99a1bf00-1881-496b-ab6b-9566df89172d)
+![report_discussion_3](https://github.com/emi5884/community-service/assets/98724087/444564c3-5506-47cd-a259-6ff564b0c0df)
 
 #### 認知度アップによる仲間集め<br>
 活動レポートを更新すると市民に周知されます。<br>
