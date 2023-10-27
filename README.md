@@ -112,7 +112,8 @@
 (イメージ画像の花火大会は日本の花火大会の例ですがEaasのような成り立ちだったので参考にしました。)<br><br>
 
 #### プロジェクト画面<br>
-![project_2](https://github.com/emi5884/community-service/assets/98724087/36d78cf9-1a3c-4c37-b108-350e20acf850)
+![project_3](https://github.com/emi5884/community-service/assets/98724087/8b34acb0-2941-44e9-af62-bdd62b9199fb)
+
 ---------------
 
 ### コミュニティ画面：市民にサポート情報を提供する画面<br>
