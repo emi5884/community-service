@@ -115,7 +115,7 @@
 ![project_2](https://github.com/emi5884/community-service/assets/98724087/36d78cf9-1a3c-4c37-b108-350e20acf850)
 ---------------
 
-### コミュニティ画面：市民にサポート団体の情報を提供する画面<br>
+### コミュニティ画面：市民にサポート情報を提供する画面<br>
 ![community_all](https://github.com/emi5884/community-service/assets/98724087/51ec32c3-8bd0-4cb6-bef1-34ef4af3f658)
 
 情報提供方法①：相談窓口(チャットボット)での情報提供<br>
