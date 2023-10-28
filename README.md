@@ -354,7 +354,7 @@ chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本�
 世の中の「機会」を集約＆可視化し、「便利だから」という理由で多くの方にプラットフォームに訪れていただくことで、
 市民(=ユーザー)と非営利団体や市民活動団体のタッチポイントが増え、団体へのサポート(寄付金の再分配やボランティア)が促進されることを期待しています。<br><br>
 
-![kutikomi](https://github.com/emi5884/community-service/assets/98724087/fbcb5321-204a-4f73-8249-ec12721049db)
+![kutikomi_2](https://github.com/emi5884/community-service/assets/98724087/886275c6-cb4a-4ff5-86b0-d12e308c729c)
 
 ----------
 
