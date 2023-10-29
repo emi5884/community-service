@@ -198,7 +198,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 ②マッチングしなかった場合は、スリフトショップで販売(Q15で言及) ※販売情報はシェア画面で共有<br>
 &nbsp;※スリフトショップの売上はコミュニティに還元 (参考：ウィスラーコミュニティーサービス ※12)<br>
 
-![matching_2](https://github.com/emi5884/community-service/assets/98724087/6f611ce7-23cd-4d71-9d02-4206298af640)
+![matching_2](https://github.com/emi5884/community-service/assets/98724087/d1a96fba-6cb6-443a-a515-df483c4a1a11)
 
 ----------
 
