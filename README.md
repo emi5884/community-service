@@ -280,7 +280,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q13で言及します。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※余剰利益は、コミュニティに還元される想定です。<br>
 
-2） シェア画面の販売売上<br>
+2） 寄付品の販売売上<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q15で言及します。<br>
 
 3） スタートアップのリターン<br>
