@@ -285,7 +285,6 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 
 3） スタートアップのリターン<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;スタートアップから利益が出た場合はコミュニティにリターンが還元されます。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ベンチャーキャピタルのコミュニティ版のようなイメージです。)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※参考：沖縄の共同売店 (コミュニティで運営し、利益をコミュニティのために活用 ※13)<br>
 
 ※ イメージ<br>
