@@ -121,7 +121,7 @@
 
 情報提供方法①：相談窓口(チャットボット)での情報提供<br>
 ※悩み事や願い事を相談<br><br>
-![AI_image_2](https://github.com/emi5884/community-service/assets/98724087/241350c3-311f-433a-ba05-ca02ee345573)<br>
+![AI_image_2](https://github.com/emi5884/community-service/assets/98724087/31fc80c3-58c3-45a7-844b-b080ef7ba632)<br>
 
 情報提供方法②：GNHのアンケート結果のフォロー (Noと回答した場合は、相談画面を表示等) <br>
 参考：ウィスラーコミュニティサービスのアウトリーチサービス(※8)<br><br>
