@@ -3,8 +3,6 @@
 ```
 目次
 
-💻 言語
-🌙 特徴
 💬 概要
 💭 イメージ
   　- ドネート画面
@@ -15,22 +13,11 @@
 📖 参照
 ```
 
-# 💻 言語
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a><br>
-<br><br>
-
-# 🌙 特徴
-- no story board
-- MVVM<br>
-
-&nbsp;&nbsp;&nbsp;※ ハードコーディング
-<br><br>
-
 # 💬 概要
 ### カナダウィスラーのまちづくりを参考にした共助のオンラインプラットフォーム<br>
 
 非営利団体の専門知識とスキルを活用して、自治体のヴィジョンの1つである「コミュニティの繁栄」を実現しているウィスラーをモデルにしたアプリです。(※1)<br><br>
-ウィスラーでは、自治体や民間ファンドが公益を担う非営利団体をサポートすることにより(※2)、団体を通じて市民に様々な機会や支援が提供され高い住民満足度を実現しています。(※3)<br>
+ウィスラーでは、自治体やコミュニティファンドが公益を担う非営利団体をサポートすることにより、団体を通じて市民に様々な機会が提供されています。(※2)<br>
 
 日本にも地域を盛り上げたい、社会課題を解決したい、困っている人を助けたいという想いをもって活動をしている団体が多くあると思います。
 このアプリは、団体の活動をサポートすることで(団体と市民を繋ぐサポートや活動費のサポート等)、市民の幸福や地域社会の繁栄に貢献することを目指しています。<br><br>
@@ -41,14 +28,14 @@
 # 💭 イメージ<br>
 
 ### ドネート画面：寄付情報の登録を行う画面<br>
-※参考：善意銀行(個人や企業からの現金, 物品, 体験等の寄付を必要としている団体につなげる活動をしている社会福祉法人 ※4)<br><br>
+※参考：善意銀行(個人や企業からの現金, 物品, 体験等の寄付を必要としている団体につなげる活動をしている社会福祉法人 ※3)<br><br>
 ![donate_2](https://github.com/emi5884/community-service/assets/98724087/e04d9da3-cc8b-49c8-bd53-2cce418c4cb5)
 
 ---------------
 
 ### シェア画面：機会(非営利団体のサービスや寄付品)の一覧<br>
 ※寄付品はドネート画面の登録情報、非営利団体のサービスはプロジェクト画面の登録情報(後述)を反映<br>
-※参考：クラシファイドサイト(craigslist ※5)、シェアリングエコノミー(※6)<br><br>
+※参考：クラシファイドサイト(craigslist ※4)、シェアリングエコノミー(※5)<br><br>
 
 ![share_2](https://github.com/emi5884/community-service/assets/98724087/30574e5b-d547-40af-b091-5090397f560b)
 
@@ -103,12 +90,12 @@
 ![support_gif_2](https://github.com/emi5884/community-service/assets/98724087/bb195522-618c-4bbe-b7cf-78297b9dfa27)
 
 #### 分配イメージ<br>
-※ユーザー1人当たりに分配された資金(全寄付金÷ユーザー数)をユーザー自身でサポートしたい団体やカテゴリーに寄付するイメージです。(検討中)<br><br>
+※ユーザー1人当たりに分配された資金(全寄付金÷ユーザー数)をユーザー自身でサポートしたい団体やカテゴリーに寄付するイメージです。<br><br>
 ![distribute_image](https://github.com/emi5884/community-service/assets/98724087/a98b37a0-99cc-4f91-9fbf-0ccaf5b0deb6)
 
 #### 分配対象のプロジェクトイメージ<br>
 ![support_4](https://github.com/emi5884/community-service/assets/98724087/7130ed29-296e-482a-9542-1e747f001ae5)
-※Eaas(Experimentation as a service)...市民が感じている課題に対するソリューションを市民自身で導き出すことを支援するEUのプロジェクト(※7) 導入効果を明らかにすることで行政施策として採用される可能性がある。<br>
+※Eaas(Experimentation as a service)...市民が感じている課題に対するソリューションを市民自身で導き出すことを支援するEUのプロジェクト(※6) 導入効果を明らかにすることで行政施策として採用される可能性がある。<br>
 (イメージ画像の花火大会は日本の花火大会の例ですがEaasのような成り立ちだったので参考にしました。)<br><br>
 
 #### プロジェクト画面<br>
@@ -124,13 +111,13 @@
 ![AI_image_2](https://github.com/emi5884/community-service/assets/98724087/31fc80c3-58c3-45a7-844b-b080ef7ba632)<br>
 
 情報提供方法②：GNHのアンケート結果のフォロー (Noと回答した場合は、相談画面を表示等) <br>
-参考：ウィスラーコミュニティサービスのアウトリーチサービス(※8)<br><br>
+参考：ウィスラーコミュニティサービスのアウトリーチサービス(※7)<br><br>
 ![gnh_follow](https://github.com/emi5884/community-service/assets/98724087/c37e535c-9616-4378-bf04-4b03c5d62538)<br>
 ![survey_gif](https://github.com/emi5884/community-service/assets/98724087/e5b16b75-3c53-414b-899f-f3cb63f6f1bd)
 
 <br>
 GNH：コミュニティヘルスの認知と向上のためのアンケート調査 (グラフは集計結果)<br>
-※参考：ウィスラーのまちづくり指標とブータンのGNH(※9)<br><br>
+※参考：ウィスラーのまちづくり指標とブータンのGNH(※8)<br><br>
 
 ![ghn_all](https://github.com/emi5884/community-service/assets/98724087/4a39cab5-6fba-4442-9572-a77de0058bae)
 
@@ -145,7 +132,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 
 寄付金用途の意思決定を市民参加型にすることで、多くの人が課題と感じていることには多くの資金が分配される一方、少数の人が感じている課題も見過ごされず資金が分配されることを期待しています。<br><br>
 
-※ イメージ(参考：武蔵野市民意識調査アンケート※10)<br>
+※ イメージ(参考：市民意識調査アンケート※9)<br>
 課題解決のために活動する団体の活動費を支援することで活動内容が充実し、<br>
 活動者だけでなく支援者にとっても実現したい町に近づくイメージです。<br>
 (下の例の場合は、団体を支援することで遊び場が増えたり、保護される動物が増えることが期待されます。) <br><br>
@@ -170,7 +157,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 
 非営利団体のサービスや企業の寄付の一覧なので、無料もしくは低価格です。<br>
 シェア画面の一覧は機会の一覧でありコモンズ(共有資源)の一覧をイメージしています。<br><br>
-国連開発計画で人間開発について以下の記述があります。(※11)<br><br>
+国連開発計画で人間開発について以下の記述があります。(※10)<br><br>
 
 ```
 「人間開発とは人々が各自の可能性を十全に開花させ、それぞれの必要と関心に応じて生産的かつ創造的な人生を開拓できるような環境を創出すること」
@@ -196,7 +183,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 ※ イメージ<br>
 ①寄付情報と団体のウィッシュリストの内容がマッチングしたら優先的に団体に寄付<br>
 ②マッチングしなかった場合は、スリフトショップで販売(Q15で言及) ※販売情報はシェア画面で共有<br>
-&nbsp;※スリフトショップの売上はコミュニティに還元 (参考：ウィスラーコミュニティーサービス ※12)<br>
+&nbsp;※スリフトショップの売上はコミュニティに還元 (参考：ウィスラーコミュニティーサービス ※11)<br>
 
 ![matching_2](https://github.com/emi5884/community-service/assets/98724087/d1a96fba-6cb6-443a-a515-df483c4a1a11)
 
@@ -285,7 +272,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 
 3） スタートアップのリターン<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;スタートアップから利益が出た場合はコミュニティにリターンが還元されます。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※参考：沖縄の共同売店 (コミュニティで運営し、利益をコミュニティのために活用 ※13)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※参考：沖縄の共同売店 (コミュニティで運営し、利益をコミュニティのために活用 ※12)<br>
 
 ※ イメージ<br>
 ![return_2](https://github.com/emi5884/community-service/assets/98724087/09ddbf3c-f151-43c9-8775-1b23239d009e)<br><br>
@@ -321,7 +308,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 広告は、インスタグラム広告のようにアプリから収集されるデータをもとにパーソナライズされた広告や検索ワードにヒットした広告を想定しています。<br><br>
 
 ※検索ワードにヒットした広告イメージ<br>
-地域のスモールビジネスの広告や今後の動向を踏まえ3つのP(planet, people, profit ※14)に配慮したプロダクト等
+地域のスモールビジネスの広告や今後の動向を踏まえ3つのP(planet, people, profit ※13)に配慮したプロダクト等
 ![Ad](https://github.com/emi5884/community-service/assets/98724087/967a84e9-cc54-4e9a-a577-6ede2910efbc)<br><br>
 
 ※パーソナライズ広告イメージ<br>
@@ -333,7 +320,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 ### Q14 寄付が少ないと言われる日本で寄付が集まるのか？<br><br>
 
 善意銀行でアルバイトをしていたときに企業の方が「寄付したいものはあるけど、どこに寄付をすればいいのか分からなかった」とおっしゃていたことが印象に残っています。<br>
-アプリがウィスラーコミュニティ基金(※15)のように寄付を一元的に受け付ける寄付の総合窓口のような存在になることで寄付が集まりやすくなることを期待しています。<br>
+アプリがウィスラーコミュニティ基金(※14)のように寄付を一元的に受け付ける寄付の総合窓口のような存在になることで寄付が集まりやすくなることを期待しています。<br>
 
 ----------
 
@@ -349,7 +336,7 @@ Q11〜Q17：ビジネスモデル関連<br><br>
 ### Q16 アプリの集客方法は？<br><br>
 
 口コミです。<br>
-chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本当にいいプロダクトなら、みんなそのプロダクトを話題にする。googleやfacebookは友達から聞いて知ったんじゃない？」という言葉を参考にしています。(※16)<br><br>
+chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本当にいいプロダクトなら、みんなそのプロダクトを話題にする。googleやfacebookは友達から聞いて知ったんじゃない？」という言葉を参考にしています。(※15)<br><br>
 このアプリのメイン機能である「share」は、機会版のgoogleを目指しています。<br>
 世の中の「機会」を集約＆可視化し、「便利だから」という理由で多くの方にプラットフォームに訪れていただくことで、
 市民(=ユーザー)と非営利団体や市民活動団体のタッチポイントが増え、団体へのサポート(寄付金の分配やボランティア)が促進されることを期待しています。<br><br>
@@ -383,31 +370,29 @@ chatGPTを開発したopenAI創業者のサム・アルトマンさんの「本�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistlerfoundation.com/grants/ &nbsp;&nbsp;(参照2023-8-16)<br>
 (※2) ウィスラーコミュニティファンデーションホームページ「About us」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistlerfoundation.com/about-us/ &nbsp;&nbsp;(参照2023-8-16)<br>
-(※3) ウィスラーリゾート自治体ホームページ「Surveys」 ※滞在していた2012年の調査結果を参照しています。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.whistler.ca/wp-content/uploads/2023/01/Community-Life-Survey-Results-2012_.pdf  &nbsp; p19,23,48 &nbsp;&nbsp;(参照2023-8-16)<br>
-(※4) 東京都社会福祉協議会 東京善意銀行ホームページ「東京善意銀行とは」<br>
+(※3) 東京都社会福祉協議会 東京善意銀行ホームページ「東京善意銀行とは」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.tcsw.tvac.or.jp/zengin/overview/index.html (参照2023-8-16)<br>
-(※5) craigslist whistlerホームページ<br>
+(※4) craigslist whistlerホームページ<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistler.craigslist.org/ (参照2023-8-16)<br>
-(※6) レイチェルボッツマン, ルー・ロジャース, 関美和(訳)(2016) 共有からビジネスを生み出す新戦略 NHK出版 p122-128<br>
-(※7) 中島健祐(2019) デンマークのスマートシティ 学芸出版社 p194-195<br>
-(※8) ウィスラーコミュニティサービスソサイエティホームページ「Outreach Services」<br>
+(※5) レイチェルボッツマン, ルー・ロジャース, 関美和(訳)(2016) 共有からビジネスを生み出す新戦略 NHK出版 p122-128<br>
+(※6) 中島健祐(2019) デンマークのスマートシティ 学芸出版社 p194-195<br>
+(※7) ウィスラーコミュニティサービスソサイエティホームページ「Outreach Services」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://mywcss.org/contact-outreach/ (参照2023-8-16)<br>
-(※9) 公益財団法人 日本交通公社ホームページ「環境と共生するリゾート～カナダ・ウィスラーを訪れて [コラムvol.210]」 <br>
+(※8) 公益財団法人 日本交通公社ホームページ「環境と共生するリゾート～カナダ・ウィスラーを訪れて [コラムvol.210]」 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.jtb.or.jp/researchers/column/column-canada-nakajima/ (参照2023-8-16)<br>
-(※9) 外務省ホームページより「ブータン～国民総幸福量（ＧＮＨ)を尊重する国」<br>
+(※8) 外務省ホームページより「ブータン～国民総幸福量（ＧＮＨ)を尊重する国」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.mofa.go.jp/mofaj/press/pr/wakaru/topics/vol79/index.html (参照2023-8-16)<br>
-(※10) 武蔵野市ホームページ「市政アンケート・市民意識調査」<br>
+(※9) 武蔵野市ホームページ「市政アンケート・市民意識調査」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.city.musashino.lg.jp/shiseijoho/ikenboshu_enquete/enquete/index.html (参照2023-8-16)<br>
-(※11) 国連開発計画ホームページ<br>
+(※10) 国連開発計画ホームページ<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  http://www.undp.or.jp/hdr/ (参照2023-8-16)<br>
-(※12) ウィスラーコミュニティサービスホームページ 「Re-Use-It Centre」<br>
+(※11) ウィスラーコミュニティサービスホームページ 「Re-Use-It Centre」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://mywcss.org/social-enterprises/re-use-it-centre/ (参照2023-8-16)<br>
-(※13) 共同売店ファンクラブホームページ<br>
+(※12) 共同売店ファンクラブホームページ<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://kyodobaiten.org/whatis/ (参照2023-8-16)<br>
-(※14) 安居昭博(2021) サーキュラーエコノミー実践 学芸出版社 (参照2023-8-16)<br>
-(※15) ウィスラーコミュニティファンデーションホームページ 「About us」<br>
+(※13) 安居昭博(2021) サーキュラーエコノミー実践 学芸出版社 (参照2023-8-16)<br>
+(※14) ウィスラーコミュニティファンデーションホームページ 「About us」<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://whistlerfoundation.com/about-us/ (参照2023-8-16)<br>
-(※16) YouTube 「Sam Altman - How to Succeed with a Startup」 <br>
+(※15) YouTube 「Sam Altman - How to Succeed with a Startup」 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.youtube.com/watch?v=0lJKucu6HJc&t=46s (参照2023-10-18)<br><br>
 
